@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\BAG\Desktop\Udemy_Altium\UDEMY_MSB\UDEMY_MSB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=udemy_msb-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=udemy_msb-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

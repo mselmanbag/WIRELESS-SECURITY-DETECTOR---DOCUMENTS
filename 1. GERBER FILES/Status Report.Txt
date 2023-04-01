@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [UDEMY_MSB.PrjPcb]
+   Generated File[UDEMY_MSB-RoundHoles.TXT]
+   Generated File[UDEMY_MSB-SlotHoles.TXT]
+   Generated File[UDEMY_MSB.LDP]
+   Generated File[UDEMY_MSB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 23:33:11 On 31.03.2023
