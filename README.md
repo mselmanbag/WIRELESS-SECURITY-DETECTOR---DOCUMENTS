@@ -1,4 +1,14 @@
 # WIRELESS SECURITY DETECTOR 
+ Project Features
+- 230VAC Supply voltage, optional 12VDC and 5VDC
+- Wi-Fi and Bluetooth connection with ESP32 module
+- Programmable interface
+- Buzzer alarm
+- RTC
+- USB interface
+- Two programmable relay outputs
+- Motion sensor (PIR)
+
 ![1](https://user-images.githubusercontent.com/110724459/229285808-0f0da909-0e06-4bf0-9549-e80094e25469.png)
 
 ![4_Top](https://user-images.githubusercontent.com/110724459/229286846-4bc20e61-fce9-4f4b-b99f-5edd5ff98d24.jpg)
